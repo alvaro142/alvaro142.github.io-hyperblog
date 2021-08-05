@@ -6,4 +6,7 @@ etc etc.
 
 primeros pasos de github.
 
-hoy hablaremos de github
+hoy hablaremos de github.
+
+
+mañana nos enfocaremos en html5.
