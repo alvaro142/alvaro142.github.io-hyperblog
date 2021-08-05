@@ -6,4 +6,4 @@ etc etc.
 
 primeros pasos de github.
 
-curo de github
+hoy hablaremos de github
