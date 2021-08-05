@@ -6,4 +6,4 @@ etc etc.
 
 primeros pasos de github.
 
-hoy hablaremos de github
+hoy hablaremos de github y de git para aprender.
