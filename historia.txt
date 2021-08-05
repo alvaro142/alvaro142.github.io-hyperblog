@@ -7,7 +7,14 @@ etc etc.
 primeros pasos de github.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 hoy hablaremos de github y de git para aprender.
+=======
+hoy hablaremos de github.
+
+
+mañana nos enfocaremos en html5.
+>>>>>>> cabecera
 =======
 hoy hablaremos de github.
 
